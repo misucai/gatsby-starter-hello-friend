@@ -9,7 +9,7 @@ sections:
   label: Posts
   create: all
   match: "*"
-upload_dir: https://res.cloudinary.com/diqqalzsx/image/upload
+upload_dir: https://res.cloudinary.com/diqqalzsx/image
 public_path: ''
 front_matter_path: ''
 use_front_matter_path: 
