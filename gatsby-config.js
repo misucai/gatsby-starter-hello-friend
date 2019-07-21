@@ -19,7 +19,7 @@ module.exports = {
     defaultTheme: 'light',
     postsPerPage: 15,
     showMenuItems: 2,
-    menuMoreText: 'Show more',
+    menuMoreText: '更多',
     mainMenu: [
       {
         title: '关于',
