@@ -17,9 +17,6 @@ fields:
 - type: text
   name: excerpt
   label: excerpt
-- type: file
-  name: coverImage
-  label: coverImage
 - type: list
   name: tags
   label: tags
