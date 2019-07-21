@@ -79,7 +79,9 @@ h4 {
 a {
   color: inherit;
 }
-
+p {
+    margin-bottom: 1.6em!important;
+}
 img {
   display: block;
   max-width: 100%;
