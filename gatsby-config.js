@@ -22,15 +22,15 @@ module.exports = {
     menuMoreText: 'Show more',
     mainMenu: [
       {
-        title: 'About',
+        title: '关于',
         path: '/about',
       },
       {
-        title: 'Showcase',
-        path: '/showcase',
+        title: '中医',
+        path: '/tag/中医',
       },
       {
-        title: 'Example',
+        title: '科学',
         path: '/example',
       },
     ],
