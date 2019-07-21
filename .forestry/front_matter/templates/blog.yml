@@ -23,3 +23,5 @@ fields:
 - type: list
   name: tags
   label: tags
+pages:
+- src/posts/和菜头-关于-三伏贴-的几点建议.md
