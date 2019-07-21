@@ -9,8 +9,8 @@ sections:
   label: Posts
   create: all
   match: "*"
-upload_dir: https://res.cloudinary.com/diqqalzsx/image
-public_path: ''
+upload_dir: content/uploads
+public_path: https://res.cloudinary.com/diqqalzsx/image/upload
 front_matter_path: ''
 use_front_matter_path: 
 file_template: ":filename:"
