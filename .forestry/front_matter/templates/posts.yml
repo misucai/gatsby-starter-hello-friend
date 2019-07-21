@@ -24,4 +24,5 @@ fields:
   name: tags
   label: tags
 pages:
+- src/posts/中医是三千年以来最成功的骗术-没有之一.md
 - src/posts/中医是最成功的骗术-没有之一.md
