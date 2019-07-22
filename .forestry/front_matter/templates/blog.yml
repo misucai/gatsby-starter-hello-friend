@@ -21,5 +21,6 @@ fields:
   name: tags
   label: tags
 pages:
+- src/posts/平等的科举-为什么导致落后.md
 - src/posts/方舟子-中医就是穿山甲灭绝的罪魁祸首.md
 - src/posts/和菜头-关于-三伏贴-的几点建议.md
