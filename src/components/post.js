@@ -59,6 +59,8 @@ const Post = ({
           </>
         ) : (
           <>
+          
+           </Link>
             <div dangerouslySetInnerHTML={{ __html: html }} />
             <Navigation
               previousPath={previousPath}
@@ -68,7 +70,7 @@ const Post = ({
             />
           </>
         )}
-      </Link>
+    
       </div> 
     </div>
   )
