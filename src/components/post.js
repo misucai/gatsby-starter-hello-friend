@@ -26,7 +26,8 @@ const Post = ({
 
   return (
     <div className={style.post}>
-      <div className={style.postContent}>
+   <Link to={path} className={style.readMore}>
+    <div className={style.postContent}>
         <h1 className={style.title}>
           {excerpt ? <Link to={path}>{title}</Link> : title}
         </h1>
@@ -53,8 +54,7 @@ const Post = ({
         {excerpt ? (
           <>
             <p>{excerpt}</p>
-            <Link to={path} className={style.readMore}>
-              Read more →
+       
             </Link>
           </>
         ) : (
