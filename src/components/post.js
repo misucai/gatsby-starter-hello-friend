@@ -27,7 +27,6 @@ const Post = ({
   return (
     <div className={style.post}>
       <div className={style.postContent}>
-         <Link to={path} >
         <h1 className={style.title}>
           {excerpt ? <Link to={path}>{title}</Link> : title}
         </h1>
@@ -53,14 +52,12 @@ const Post = ({
 
         {excerpt ? (
           <>
-            <p>{excerpt}</p>
-      
-           
+             <Link to={path} className={style.readMore}>
+          <p>{excerpt}</p>         
+           </Link>
           </>
         ) : (
           <>
-          
-           </Link>
             <div dangerouslySetInnerHTML={{ __html: html }} />
             <Navigation
               previousPath={previousPath}
@@ -70,8 +67,7 @@ const Post = ({
             />
           </>
         )}
-    
-      </div> 
+      </div>
     </div>
   )
 }
