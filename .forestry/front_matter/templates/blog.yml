@@ -21,6 +21,7 @@ fields:
   name: tags
   label: tags
 pages:
+- src/posts/大象公会-不服中医还有蒙藏维苗医等着你.md
 - src/posts/方舟子-为什么说中医不是科学.md
 - src/posts/fenng-我对中医的态度.md
 - src/posts/fenng-中西医结合是怎么回事儿.md
