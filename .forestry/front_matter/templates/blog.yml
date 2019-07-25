@@ -21,6 +21,7 @@ fields:
   name: tags
   label: tags
 pages:
+- src/posts/应该需要知道有关健康的几条常识.md
 - src/posts/是谁创造-或者编造了这些名言.md
 - src/posts/三十五岁之后.md
 - src/posts/村上春树的12条跑步哲学.md
