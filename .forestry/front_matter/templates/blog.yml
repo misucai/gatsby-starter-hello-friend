@@ -21,6 +21,7 @@ fields:
   name: tags
   label: tags
 pages:
+- src/posts/译-创造者vs管理者-日程规划能成就了你的工作-也可能毁掉你的工作.md
 - src/posts/笛卡儿-谈谈方法.md
 - src/posts/熊阿姨-记者的能力是如何学习和培养的.md
 - src/posts/创新者是天生的吗.md
