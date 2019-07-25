@@ -21,6 +21,7 @@ fields:
   name: tags
   label: tags
 pages:
+- src/posts/方舟子就中医问题答-洛杉矶时报-记者问.md
 - src/posts/访谈-中医现代化的上下求索之路.md
 - src/posts/和菜头-致容易受伤的中医粉.md
 - src/posts/批中医讲座第10讲-当心-中西医结合-的危害.md
