@@ -21,6 +21,7 @@ fields:
   name: tags
   label: tags
 pages:
+- src/posts/吃-还是拒绝-中药拷问你的理性.md
 - src/posts/方舟子谈-上火-病毒与中毒.md
 - src/posts/阮一峰-胡适的三个主义.md
 - src/posts/胡适到底牛逼在哪儿.md
