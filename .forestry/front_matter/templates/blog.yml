@@ -21,6 +21,7 @@ fields:
   name: tags
   label: tags
 pages:
+- src/posts/有机食品更加健康吗.md
 - src/posts/治未病-也要靠科学.md
 - src/posts/中年危机-是个伪命题.md
 - src/posts/吃-还是拒绝-中药拷问你的理性.md
