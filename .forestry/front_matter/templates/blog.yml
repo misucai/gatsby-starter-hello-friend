@@ -21,6 +21,7 @@ fields:
   name: tags
   label: tags
 pages:
+- src/posts/fenng-中西医结合是怎么回事儿.md
 - src/posts/大象公会-日本是怎样废止中医的.md
 - src/posts/平等的科举-为什么导致落后.md
 - src/posts/方舟子-中医就是穿山甲灭绝的罪魁祸首.md
