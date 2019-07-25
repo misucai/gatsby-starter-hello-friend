@@ -21,6 +21,7 @@ fields:
   name: tags
   label: tags
 pages:
+- src/posts/村上春树的12条跑步哲学.md
 - src/posts/胡适-一个防身药方的三味药.md
 - src/posts/王小波-一个人只拥有此生此世是不够的-他还应该拥有诗意的世界.md
 - src/posts/有机食品更加健康吗.md
