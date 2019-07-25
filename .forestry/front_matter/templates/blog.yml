@@ -21,6 +21,7 @@ fields:
   name: tags
   label: tags
 pages:
+- src/posts/胡适到底牛逼在哪儿.md
 - src/posts/什么是-穷人思维.md
 - src/posts/德鲁克-管理自己.md
 - src/posts/肖申克的救赎-打动人心的台词.md
