@@ -21,6 +21,7 @@ fields:
   name: tags
   label: tags
 pages:
+- src/posts/什么是-穷人思维.md
 - src/posts/德鲁克-管理自己.md
 - src/posts/肖申克的救赎-打动人心的台词.md
 - src/posts/译-创造者vs管理者-日程规划能成就了你的工作-也可能毁掉你的工作.md
