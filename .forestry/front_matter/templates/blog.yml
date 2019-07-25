@@ -21,6 +21,7 @@ fields:
   name: tags
   label: tags
 pages:
+- src/posts/熊阿姨-记者的能力是如何学习和培养的.md
 - src/posts/创新者是天生的吗.md
 - src/posts/到底谁是伪中医-16个中医教授看同一个病人-诊断各不相同.md
 - src/posts/方舟子与中医的关系.md
