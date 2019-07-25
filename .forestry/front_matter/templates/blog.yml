@@ -21,6 +21,7 @@ fields:
   name: tags
   label: tags
 pages:
+- src/posts/方舟子-为什么说中医不是科学.md
 - src/posts/fenng-我对中医的态度.md
 - src/posts/fenng-中西医结合是怎么回事儿.md
 - src/posts/大象公会-日本是怎样废止中医的.md
