@@ -21,6 +21,7 @@ fields:
   name: tags
   label: tags
 pages:
+- src/posts/阮一峰-胡适的三个主义.md
 - src/posts/胡适到底牛逼在哪儿.md
 - src/posts/什么是-穷人思维.md
 - src/posts/德鲁克-管理自己.md
