@@ -21,6 +21,7 @@ fields:
   name: tags
   label: tags
 pages:
+- src/posts/到底谁是伪中医-16个中医教授看同一个病人-诊断各不相同.md
 - src/posts/方舟子与中医的关系.md
 - src/posts/方舟子就中医问题答-洛杉矶时报-记者问.md
 - src/posts/访谈-中医现代化的上下求索之路.md
