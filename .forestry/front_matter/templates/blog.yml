@@ -21,6 +21,7 @@ fields:
   name: tags
   label: tags
 pages:
+- src/posts/外国人真的不坐月子吗.md
 - src/posts/谈谈-认知-是怎么回事.md
 - src/posts/应该需要知道有关健康的几条常识.md
 - src/posts/是谁创造-或者编造了这些名言.md
