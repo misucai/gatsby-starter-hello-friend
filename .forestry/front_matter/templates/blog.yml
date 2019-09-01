@@ -21,6 +21,7 @@ fields:
   name: tags
   label: tags
 pages:
+- src/posts/大唐帝国的致命缺陷.md
 - src/posts/王垠-中国人的信任危机.md
 - src/posts/外国人真的不坐月子吗.md
 - src/posts/应该需要知道有关健康的几条常识.md
