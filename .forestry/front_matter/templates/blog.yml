@@ -21,6 +21,7 @@ fields:
   name: tags
   label: tags
 pages:
+- src/posts/高领资本张磊在中国人民大学2017届毕业典礼上的演讲.md
 - src/posts/关于效果广告的一些思考.md
 - src/posts/明朝灭亡的时候-官员们都在忙些啥.md
 - src/posts/大唐帝国的致命缺陷.md
