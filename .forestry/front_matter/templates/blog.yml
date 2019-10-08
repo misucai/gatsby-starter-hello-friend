@@ -21,6 +21,7 @@ fields:
   name: tags
   label: tags
 pages:
+- src/posts/请不要轻易放弃-每个专家都曾经是初学者-译.md
 - src/posts/杨贵妃生于蜀-所食荔枝来自巴中.md
 - src/posts/高领资本张磊在中国人民大学2017届毕业典礼上的演讲.md
 - src/posts/关于效果广告的一些思考.md
