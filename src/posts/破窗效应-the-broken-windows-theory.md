@@ -1,7 +1,7 @@
 ---
 title: 破窗效应 (The Broken Windows Theory)
 date: 2020-01-20T16:00:00Z
-path: The Broken Windows Theory
+path: "/TheBrokenWindowsTheory"
 author: ''
 excerpt: 在破窗理论中认为，一些明显的犯罪迹象(或缺乏环保意识)会导致进一步的、更严重的犯罪(或环境的进一步恶化)。
 tags:
