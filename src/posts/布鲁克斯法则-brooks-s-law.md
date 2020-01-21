@@ -1,7 +1,7 @@
 ---
 title: 布鲁克斯法则 (Brooks's Law)
 date: 2020-01-20T16:01:00Z
-path: Brooks's Law
+path: "/BrookssLaw"
 author: 'Brooks''s '
 excerpt: 软件开发后期，添加人力只会使项目开发得更慢。
 tags:
