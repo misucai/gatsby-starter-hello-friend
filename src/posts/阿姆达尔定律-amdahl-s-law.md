@@ -1,7 +1,7 @@
 ---
 title: 阿姆达尔定律 (Amdahl's Law)
 date: 2020-01-20T16:00:00Z
-path: AmdahlsLaw
+path: "/AmdahlsLaw"
 author: 阿姆达尔
 excerpt: 阿姆达尔定律是一个显示计算任务潜在加速能力的公式。这种能力可以通过增加系统资源来实现，通常用于并行计算中。
 tags:
